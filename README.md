@@ -16,7 +16,7 @@ With this hack you can completely remove the stress that comes with doing i-Read
 
 <h2 align="center">How to setup the hack.</h2>
     <ol>
-        <li>Download the latest release of Sapphire from <a href="https://github.com/Sapphire-Inc/Sapphire/tree/master/releases">here</a>.</li>
+        <li>Download the latest release of Sapphire from <a href="https://github.com/Sapphire-Inc/Sapphire/tree/main/assets">here</a>.</li>
         <li>Go to the Chrome extension settings page by typing <code>chrome://extensions</code> in your address bar.</li>
         <li>Enable the Developer Mode toggle (You can skip this step if it is already enabled)</li>
         <li>Open your preferred file manager of choice and drag the zip file into the page.</li>
