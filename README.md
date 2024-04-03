@@ -26,7 +26,11 @@ With this hack you can completely remove the stress that comes with doing i-Read
     <li>Now, Sapphire should have loaded.</li>
 </ol>
 
+> [!CAUTION]
+This hack has a chance of getting your account banned from i-Ready, in order to avoid this ban you must answer a minimum of 4-6 questions and spend 5+ minutes on the lesson before skipping, teachers can also see how long you spend on a lesson so it's recommended you spend a decent amount of time before skipping regardless of the anticheat.
+
 <h2 align="center">Discord</h2>
 <h4 align="center">
     Join the <a href="https://discord.gg/edgM4MuT6E">Discord</a> for additional support with the hack, or to ask any questions you may have.
 </h4>
+
