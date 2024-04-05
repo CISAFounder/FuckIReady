@@ -1,3 +1,5 @@
+# Full credits to preston aiden messenger for the lesson skipper & minute farmer used in this hack.
+
 <p align="center">
 <img width="212" height="212" src="https://github.com/Sapphire-Inc/Sapphire/blob/a66e83abf4f082891288f00388a2c9ba4c36d41b/icon.png"/>
 </p>
