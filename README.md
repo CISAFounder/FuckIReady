@@ -15,5 +15,5 @@ With this hack you can completely remove the stress that comes with doing i-Read
 
 <h2 align="center">How to setup the hack.</h2>
 <ol>
-The hack is temporarily down right now due to the hack having a high chance of banning, join the <a href="https://discord.gg/edgM4MuT6E">Discord</a> for updates on the hack.
+The hack is temporarily down right now due to the hack having a high chance of banning the following people got banned James Brown and Karon Bailey join the <a href="https://discord.gg/edgM4MuT6E">Discord</a> for updates on the hack also your teacher will be notifed if you get banned.
 </ol>
